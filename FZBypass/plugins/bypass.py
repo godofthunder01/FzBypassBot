@@ -23,7 +23,7 @@ async def start_msg(client, message):
 🛃 <b>Powered By :</b> @infinity_botzz <i>(Bypass Topic)</i>''',
         quote=True,
         reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton('🎓Channel', url='https://t.me/infinity_botzz'), InlineKeyboardButton('🔍 Use Me Here', url="https://f.technicalatg.in/hWEVGYA9")]
+            [InlineKeyboardButton('🎓Channel', url='https://t.me/infinity_botzz'), InlineKeyboardButton('🔍 Use Me Here', url="https://t.me/+Z21gnT7yjo84YjQ1")]
             ])
     )
 
